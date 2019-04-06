@@ -1,9 +1,11 @@
-package lesson02;
+package lesson02_Arrays;
 
 import java.util.stream.IntStream;
 
 /**
- * 홀수번 나타나는 요수 찾기
+ * 홀수번 나타나는 요소 찾기
+ *
+ * Find value that occurs in odd number of elements.
  *
  * 자료구조 문제, 등장 횟수 측정의 부하를 줄이는 것이 핵심 (Hash사용 추천)
  *

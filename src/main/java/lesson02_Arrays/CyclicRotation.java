@@ -1,9 +1,11 @@
-package lesson02;
+package lesson02_Arrays;
 
 import java.util.Arrays;
 
 /**
  * A 배열을 K번만큼 오른쪽으로 shift
+ *
+ * Rotate an array to the right by a given number of steps.
  *
  * K번만큼 실제로 일일이 이동하지 말고, 최종 위치로 한번에 일괄 이동
  *
