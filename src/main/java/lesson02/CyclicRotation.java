@@ -2,9 +2,21 @@ package lesson02;
 
 import java.util.Arrays;
 
+/**
+ * A 배열을 K번만큼 오른쪽으로 shift
+ *
+ * K번만큼 실제로 일일이 이동하지 말고, 최종 위치로 한번에 일괄 이동
+ *
+ * 86% -> 100%
+ *
+ * @since 2019.04.06
+ */
 public class CyclicRotation {
 	
 	public static void main(String[] args) {
+		
+		int[] A = {3,8,9,7,6};
+		int K = 3;
 		
 		System.out.println(Arrays.toString(solution()));
 	}
