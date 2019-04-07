@@ -7,9 +7,8 @@ import java.util.Arrays;
  *
  * Rotate an array to the right by a given number of steps.
  *
- * K번만큼 실제로 일일이 이동하지 말고, 최종 위치로 한번에 일괄 이동
- *
  * 86% -> 100%
+ * K번만큼 실제로 일일이 이동하지 말고, 최종 위치로 한번에 일괄 이동
  *
  * @since 2019.04.06
  */

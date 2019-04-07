@@ -7,9 +7,8 @@ import java.util.stream.IntStream;
  *
  * Find value that occurs in odd number of elements.
  *
- * 자료구조 문제, 등장 횟수 측정의 부하를 줄이는 것이 핵심 (Hash사용 추천)
- *
  * 33% -> 100%
+ * 자료구조 문제, 등장 횟수 측정의 부하를 줄이는 것이 핵심 (Hash사용 추천)
  *
  * @since 2019.04.06
  */
