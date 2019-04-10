@@ -28,13 +28,14 @@ import java.util.Arrays;
  */
 public class TriangleModify {
 	public static void main(String[] args) {
-		int[] A = {2147483647,2147483646,2147483645};
+		//int[] A = {2147483647,2147483646,2147483645};
+		int[] A = {-5,-1,-7,8,5};
 		System.out.println(solution(A));
 	}
 	
 	public static int solution(int[] A) {
 		Arrays.sort(A);
-		
+		System.out.println(Arrays.toString(A));
 		// 요소가 2개 이하의 배열일 경우 0 리턴
 		if (A.length <= 2) {
 			return 0;
