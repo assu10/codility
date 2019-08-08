@@ -11,7 +11,7 @@ public class CyclicRotationModify {
 		System.out.println(Arrays.toString(solution2(A, K)));
 	}
 	
-	
+
 	public static int[] solution2(int[] A, int K) {
 		int[] rst = new int[A.length];
 		

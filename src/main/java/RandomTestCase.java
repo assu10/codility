@@ -10,7 +10,7 @@ public class RandomTestCase {
 //		int max = 2147483647;
 		
 		int N = 10;
-		int min = 0;
+		int min = 1;
 		int max = 1000000000;
 		
 		int[] A = new int[N];
