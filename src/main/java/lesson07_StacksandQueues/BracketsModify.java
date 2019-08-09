@@ -3,7 +3,7 @@ package lesson07_StacksandQueues;
 import java.util.Stack;
 
 /**
- * N개의 char로 이루어진 string S는 아래의 조건 중 하나라도 따를 때 적절히 중첩되었다고 보낟.
+ * N개의 char로 이루어진 string S는 아래의 조건 중 하나라도 따를 때 적절히 중첩되었다고 봄.
  *
  * S는 empty
  * S는 U가 적절히 중첩된 string일 때 "(U)" or "[U]" or "{U}"의 형태를 가짐
