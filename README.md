@@ -10,6 +10,13 @@
     >
         TreeSet이 아닌 HashSet 사용 (순서 필요없이 단순 중복제거용이므로)
 ##### 07 Stacks and Queues
+- Nesting (18 mins)
+    >https://app.codility.com/demo/results/trainingK46G4V-4UR/  (62%)
+    https://app.codility.com/demo/results/trainingXQR94S-EGZ/  (75%)
+    https://app.codility.com/demo/results/trainingNVFCC8-AMM/  (100%)
+    >
+        S의 값이 비어있어도 참을 놓침
+        stack의  값을 잘못 계산함
 ##### 08 Leader
 ##### 09 Maximum slice problem
 - MaxProfit (36 mins)
