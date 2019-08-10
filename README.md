@@ -1,5 +1,16 @@
 # codility
-
+##### 01 Iterations
+##### 02 Arrays
+##### 03 Time Complexity
+##### 04 Counting Elements
+##### 05 Prefix Sums
+##### 06 Sorting
+- Distinct (10 mins)
+    >https://app.codility.com/demo/results/training4ESK5A-ZST/  (100%)
+    >
+        TreeSet이 아닌 HashSet 사용 (순서 필요없이 단순 중복제거용이므로)
+##### 07 Stacks and Queues
+##### 08 Leader
 ##### 09 Maximum slice problem
 - MaxProfit (36 mins)
    >https://app.codility.com/demo/results/trainingURR32N-GKE/  (44%)
