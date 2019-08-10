@@ -1,0 +1,6 @@
+09 Maximum slice problem
+2.MaxProfit (36mins)
+    https://app.codility.com/demo/results/trainingURR32N-GKE/ (44%)
+    https://app.codility.com/demo/results/trainingTVPXWK-6UX/ (100%)
+        최소값 nMin 변수
+        인덱스가 높은 배열에서 nMin 변수를 빼면서 가장 큰 차액 데이터 보관
