@@ -15,6 +15,8 @@ package lesson10_PrimeAndCompositeNumbers;
  *
  * 11mins, 71%, Performance 이슈
  *
+ * O(N) 방식으로 풀면 시간초과 (Performance 이슈) -> O(sqrt(N))으로 풀어야 함
+ *
  * @author 이주현
  * @since 2019.08.10
  */

@@ -14,3 +14,9 @@
             O(N) 방식으로 풀면 시간초과 (Performance 이슈)
             O(sqrt(N))으로 풀어야 함
             (int) Math.sqrt(N)
+
+12 EuclideanAlgorithm
+    1. ChocolatesByNumbers
+        https://app.codility.com/demo/results/trainingKFZVE4-888/  (100%)
+            처음부터 참고
+            최대 공약수 구해서 N/최대 공약수
