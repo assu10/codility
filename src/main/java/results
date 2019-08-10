@@ -1,6 +1,16 @@
 09 Maximum slice problem
-2.MaxProfit (36mins)
-    https://app.codility.com/demo/results/trainingURR32N-GKE/ (44%)
-    https://app.codility.com/demo/results/trainingTVPXWK-6UX/ (100%)
-        최소값 nMin 변수
-        인덱스가 높은 배열에서 nMin 변수를 빼면서 가장 큰 차액 데이터 보관
+    2. MaxProfit (36 mins)
+        https://app.codility.com/demo/results/trainingURR32N-GKE/  (44%)
+        https://app.codility.com/demo/results/trainingTVPXWK-6UX/  (100%)
+            최소값 nMin 변수
+            인덱스가 높은 배열에서 nMin 변수를 빼면서 가장 큰 차액 데이터 보관
+            Math.min(nMin, n) / Math.max(nMax, n-nMin)
+
+10 Prime and Composite Numbers
+    1. CountFactors (11 mins)
+        https://app.codility.com/demo/results/training4477RF-9WB/  (71%, Performance 이슈)
+        https://app.codility.com/demo/results/trainingEEZHBR-X6C/  (100%)
+            약수 구하기
+            O(N) 방식으로 풀면 시간초과 (Performance 이슈)
+            O(sqrt(N))으로 풀어야 함
+            (int) Math.sqrt(N)
