@@ -1,7 +1,11 @@
 # codility
 ***해결했지만 아래 링크에 없는 문제도 있습니다.
 소스는 있으니 다운받아 보시면 됩니다. <br />
-(복습 겸 다시 풀어 링크 추가 예정, 추가 후 해당 문구 삭제 예정)***
+(복습 겸 다시 풀어 링크 추가 예정, 추가 후 해당 문구 삭제 예정)<br /><br />
+I solved the problem, but there are some problems that are not listed below.<br />
+Problems not listed in the links can be found by downloading the source.<br />
+(I will solve again, and remove this text after adding links.)***
+
 ## 01 Iterations
 ## 02 Arrays
 ## 03 Time Complexity
