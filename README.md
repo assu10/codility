@@ -83,6 +83,10 @@
     >
         묶인 밧줄의 갯수를 리턴하는 것으로 잘못 이해함.
         최종적으로 나눠진 밧줄의 갯수를 리턴하는 것이었음.
+## 92 Tasks from Indeed Prime 2016 College Coders challenge
+- TennisTournament (22 mins)
+    >https://app.codility.com/demo/results/trainingXCT9MU-QBN/  (100%)
+
 ## 99 Future training 
 - SqlSum (1 mins)
     >https://app.codility.com/demo/results/trainingYN6B48-RF6/  (100%)
