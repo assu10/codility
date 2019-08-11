@@ -18,6 +18,12 @@
         S의 값이 비어있어도 참을 놓침
         stack의  값을 잘못 계산함
 ##### 08 Leader
+- EquiLeader (111 mins)
+    >https://app.codility.com/demo/results/trainingQWKCEA-6YN/  (33%)
+    https://app.codility.com/demo/results/training6NQGGH-AWZ/  (100%)
+    >
+        논리 이슈, Performance 이슈
+        양 쪽의 equi Leader 카운트 시 조건문 변경하여 계산
 ##### 09 Maximum slice problem
 - MaxProfit (36 mins)
    >https://app.codility.com/demo/results/trainingURR32N-GKE/  (44%)
