@@ -75,7 +75,14 @@
     >
         처음부터 참고
         아직도 triangeCnt += r - q - 1; 이 부분은 잘 이해가 안감
-        
+
+## 16 GreedyAlgorithms
+- TieRopes (16 mins)
+    >https://app.codility.com/demo/results/trainingQKBWMK-MJB/  (12%)        
+    https://app.codility.com/demo/results/trainingUW5WNX-4JT/  (100%)
+    >
+        묶인 밧줄의 갯수를 리턴하는 것으로 잘못 이해함.
+        최종적으로 나눠진 밧줄의 갯수를 리턴하는 것이었음.
 ## 99 Future training 
 - SqlSum (1 mins)
     >https://app.codility.com/demo/results/trainingYN6B48-RF6/  (100%)
