@@ -70,6 +70,12 @@
 - AbsDistint (14 mins)
     >https://app.codility.com/demo/results/trainingTPFJJ4-EPV/  (100%)
 
+- CountTriangles
+    >https://app.codility.com/demo/results/trainingQ776CZ-C7U/ (100%)
+    >
+        처음부터 참고
+        아직도 triangeCnt += r - q - 1; 이 부분은 잘 이해가 안감
+        
 ## 99 Future training 
 - SqlSum (1 mins)
     >https://app.codility.com/demo/results/trainingYN6B48-RF6/  (100%)
