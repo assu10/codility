@@ -35,6 +35,13 @@
       최소값 nMin 변수
       인덱스가 높은 배열에서 nMin 변수를 빼면서 가장 큰 차액 데이터 보관
       Math.min(nMin, n) / Math.max(nMax, n-nMin)
+      
+- MaxSliceSum (54 mins)
+    >https://app.codility.com/demo/results/trainingW4A93M-5T3/  (69%)
+    https://app.codility.com/demo/results/trainingHNSN8Q-BVV/  (100%)
+    >
+        {3,-2, 3}인 경우 실패 (3이 아닌 4가 나와야 함, 3-2+3=4)
+        음수와 양수가 섞인 경우 음수를 기준으로 slice 한다는 가정에서 오류
 
 ##### 10 Prime and Composite Numbers
 - CountFactors (11 mins)
