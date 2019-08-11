@@ -58,7 +58,7 @@
     >
         공약수 구하는 문제
 ## 11 -
-## 12 EuclideanAlgorithm
+## 12 Euclidean Algorithm
 - ChocolatesByNumbers (0 mins)
     >https://app.codility.com/demo/results/trainingKFZVE4-888/  (100%)
     >
@@ -66,7 +66,7 @@
         최대 공약수 구해서 N/최대 공약수
 ## 13 -
 ## 14 -
-## 15 CaterpillarMethod
+## 15 Caterpillar Method
 - AbsDistint (14 mins)
     >https://app.codility.com/demo/results/trainingTPFJJ4-EPV/  (100%)
 
@@ -76,13 +76,14 @@
         처음부터 참고
         아직도 triangeCnt += r - q - 1; 이 부분은 잘 이해가 안감
 
-## 16 GreedyAlgorithms
+## 16 Greedy Algorithms
 - TieRopes (16 mins)
     >https://app.codility.com/demo/results/trainingQKBWMK-MJB/  (12%)        
     https://app.codility.com/demo/results/trainingUW5WNX-4JT/  (100%)
     >
         묶인 밧줄의 갯수를 리턴하는 것으로 잘못 이해함.
         최종적으로 나눠진 밧줄의 갯수를 리턴하는 것이었음.
+
 ## 92 Tasks from Indeed Prime 2016 College Coders challenge
 - TennisTournament (22 mins)
     >https://app.codility.com/demo/results/trainingXCT9MU-QBN/  (100%)
@@ -90,3 +91,7 @@
 ## 99 Future training 
 - SqlSum (1 mins)
     >https://app.codility.com/demo/results/trainingYN6B48-RF6/  (100%)
+
+- StrSymmetryPoint
+
+- TreeHeight
