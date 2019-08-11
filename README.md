@@ -52,6 +52,11 @@
         O(N) 방식으로 풀면 시간초과 (Performance 이슈)
         O(sqrt(N))으로 풀어야 함
         (int) Math.sqrt(N)
+
+- MinPerimeterRectangle (14 mins)
+    >https://app.codility.com/demo/results/trainingAD5M68-6TJ/  (100%)
+    >
+        공약수 구하는 문제
 ##### 11 -
 ##### 12 EuclideanAlgorithm
 - ChocolatesByNumbers (0 mins)
@@ -64,3 +69,7 @@
 ##### 15 CaterpillarMethod
 - AbsDistint (14 mins)
     >https://app.codility.com/demo/results/trainingTPFJJ4-EPV/  (100%)
+
+##### 99 Future training 
+- SqlSum (1 mins)
+    >https://app.codility.com/demo/results/trainingYN6B48-RF6/  (100%)
