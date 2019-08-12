@@ -80,6 +80,15 @@ Problems not listed in the links can be found by downloading the source.<br />
         처음부터 참고
         아직도 triangeCnt += r - q - 1; 이 부분은 잘 이해가 안감
 
+- CountDistinctSlices
+    >https://app.codility.com/demo/results/trainingWG6ACZ-2YT/  (70%)
+    https://app.codility.com/demo/results/trainingMA2M84-YWX/  (100%)
+    >
+        로직은 맞았으나 퍼포먼스 이슈.
+        O(N * (N + M)) -> O(N)으로 개선
+        역시나 caterpillar는 아직 잘 이해가 안감.
+        나중에 좀 깊게 봐야겠음... 
+        
 ## 16 Greedy Algorithms
 - TieRopes (16 mins)
     >https://app.codility.com/demo/results/trainingQKBWMK-MJB/  (12%)        
