@@ -80,7 +80,7 @@ Problems not listed in the links can be found by downloading the source.<br />
         처음부터 참고
         아직도 triangeCnt += r - q - 1; 이 부분은 잘 이해가 안감
 
-- CountDistinctSlices
+- CountDistinctSlices (52 mins)
     >https://app.codility.com/demo/results/trainingWG6ACZ-2YT/  (70%)
     https://app.codility.com/demo/results/trainingMA2M84-YWX/  (100%)
     >
@@ -97,6 +97,13 @@ Problems not listed in the links can be found by downloading the source.<br />
         묶인 밧줄의 갯수를 리턴하는 것으로 잘못 이해함.
         최종적으로 나눠진 밧줄의 갯수를 리턴하는 것이었음.
 
+- MaxNonoverlappingSegments
+    >https://app.codility.com/demo/results/trainingW3M8SP-JNY/  (100%)
+    >
+        처음부터 참고함.
+        A={1,3} / B={5,6} 인 경우 겹치지 않는 세그먼트가 없으니 0을 리턴해야 하는데
+        int segCnt = 1; 왜 기본적으로 1을 깔고 가는지 이해가 안감.
+        
 ## 92 Tasks from Indeed Prime 2016 College Coders challenge
 - TennisTournament (22 mins)
     >https://app.codility.com/demo/results/trainingXCT9MU-QBN/  (100%)
