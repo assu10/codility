@@ -48,7 +48,8 @@ CyclicRotation***SecondModify*** : 검색하여 얻은 해결(나중에)<br />
 
 ## 04 Counting Elements
 
-- (TO DO)PermCheck
+- PermCheck (6 mins)
+    >https://app.codility.com/demo/results/trainingR7CP95-84S/  (100%)
 
 ## 05 Prefix Sums
 
