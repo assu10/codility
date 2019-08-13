@@ -44,7 +44,7 @@ CyclicRotation***SecondModify*** : 검색하여 얻은 해결(나중에)<br />
 
 - (TO DO)PermMissingElem
 
-- (TO DO)Tapeequilibrium
+- (TO DO)TapeEquilibrium
 
 ## 04 Counting Elements
 
@@ -53,8 +53,12 @@ CyclicRotation***SecondModify*** : 검색하여 얻은 해결(나중에)<br />
 
 ## 05 Prefix Sums
 
-- (TO DO)PassingCars
-
+- PassingCars (18 mins)
+    >https://app.codility.com/demo/results/trainingA3SQ4D-THQ/  (50%)
+    https://app.codility.com/demo/results/trainingXTY4B8-RD6/  (100%)
+    >
+        로직은 맞으나 퍼포먼스 이슈
+        O(N ** 2) -> O(N)
 ## 06 Sorting
 
 - (TO DO)MaxProductOfThree 
