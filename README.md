@@ -13,7 +13,7 @@ CyclicRotation***Modify*** : 검색하여 얻은 해결<br />
 CyclicRotation***Second*** : 2번째 내가 해결한 것(나중에)<br />
 CyclicRotation***SecondModify*** : 검색하여 얻은 해결(나중에)<br />
 
-## ~~01 Iterations~~
+## 01 Iterations
 
 - BinaryGap (38 mins)
     >https://app.codility.com/demo/results/trainingMA8RDH-CMV/  (100%)
@@ -32,18 +32,41 @@ CyclicRotation***SecondModify*** : 검색하여 얻은 해결(나중에)<br />
         hashMap key값 가져오기
             for (Map.Entry<Integer, Integer> entry : hMap.entrySet())
         첫 번째 방법도 100% 이지만 반복문을 두 번 돌리지 않고 한번에 하는 방법으로 개선
-        
+
+- CyclicRotation
+
 ## 03 Time Complexity
+
+- FrogJmp
+
+- PermMissingElem
+
+- Tapeequilibrium
+
 ## 04 Counting Elements
+
+- PermCheck
+
 ## 05 Prefix Sums
+
+- PassingCars
+
 ## 06 Sorting
+
+- MaxProductOfThree 
 
 - Distinct (10 mins)
     >https://app.codility.com/demo/results/training4ESK5A-ZST/  (100%)
     >
         TreeSet이 아닌 HashSet 사용 (순서 필요없이 단순 중복제거용이므로)
 
+- Triangle
+
 ## 07 Stacks and Queues
+
+- Brackets
+
+- Fish
 
 - Nesting (18 mins)
     >https://app.codility.com/demo/results/trainingK46G4V-4UR/  (62%)
@@ -63,6 +86,8 @@ CyclicRotation***SecondModify*** : 검색하여 얻은 해결(나중에)<br />
          높이가 같으면 넘김 (=같은 벽돌)
 
 ## 08 Leader
+
+- Dominator
 
 - EquiLeader (111 mins)
     >https://app.codility.com/demo/results/trainingQWKCEA-6YN/  (33%)
@@ -121,15 +146,6 @@ CyclicRotation***SecondModify*** : 검색하여 얻은 해결(나중에)<br />
 
 ## 15 Caterpillar Method
 
-- AbsDistint (14 mins)
-    >https://app.codility.com/demo/results/trainingTPFJJ4-EPV/  (100%)
-
-- CountTriangles
-    >https://app.codility.com/demo/results/trainingQ776CZ-C7U/ (100%)
-    >
-        처음부터 참고
-        아직도 triangeCnt += r - q - 1; 이 부분은 잘 이해가 안감
-
 - CountDistinctSlices (52 mins)
     >https://app.codility.com/demo/results/trainingWG6ACZ-2YT/  (70%)
     https://app.codility.com/demo/results/trainingMA2M84-YWX/  (100%)
@@ -138,6 +154,16 @@ CyclicRotation***SecondModify*** : 검색하여 얻은 해결(나중에)<br />
         O(N * (N + M)) -> O(N)으로 개선
         역시나 caterpillar는 아직 잘 이해가 안감.
         나중에 좀 깊게 봐야겠음... 
+
+- CountTriangles
+    >https://app.codility.com/demo/results/trainingQ776CZ-C7U/ (100%)
+    >
+        처음부터 참고
+        아직도 triangeCnt += r - q - 1; 이 부분은 잘 이해가 안감
+
+- AbsDistint (14 mins)
+    >https://app.codility.com/demo/results/trainingTPFJJ4-EPV/  (100%)
+
         
 ## 16 Greedy Algorithms
 
@@ -154,8 +180,12 @@ CyclicRotation***SecondModify*** : 검색하여 얻은 해결(나중에)<br />
         처음부터 참고함.
         A={1,3} / B={5,6} 인 경우 겹치지 않는 세그먼트가 없으니 0을 리턴해야 하는데
         int segCnt = 1; 왜 기본적으로 1을 깔고 가는지 이해가 안감.
+
+## Task from Indeed Prime 2015 challenge
+
+- LongestPassword
         
-## ~~92 Tasks from Indeed Prime 2016 College Coders challenge~~
+## 92 Tasks from Indeed Prime 2016 College Coders challenge
 
 - TennisTournament (22 mins)
     >https://app.codility.com/demo/results/trainingXCT9MU-QBN/  (100%)
