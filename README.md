@@ -58,7 +58,8 @@ CyclicRotation***SecondModify*** : 검색하여 얻은 해결(나중에)<br />
     https://app.codility.com/demo/results/trainingXTY4B8-RD6/  (100%)
     >
         로직은 맞으나 퍼포먼스 이슈
-        O(N ** 2) -> O(N)
+        O(N ** 2) -> O(N) 로 개선
+
 ## 06 Sorting
 
 - (TO DO)MaxProductOfThree 
