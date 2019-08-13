@@ -38,6 +38,9 @@ CyclicRotation***SecondModify*** : 검색하여 얻은 해결(나중에)<br />
 ## 03 Time Complexity
 
 - FrogJmp
+    >https://app.codility.com/demo/results/training9QJ7BS-KMD/  (100%)
+    >
+        반복문이 아닌 수학적으로 접근
 
 - PermMissingElem
 
