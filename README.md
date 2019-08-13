@@ -12,12 +12,14 @@ Problems not listed in the links can be found by downloading the source.<br />
 ## 04 Counting Elements
 ## 05 Prefix Sums
 ## 06 Sorting
+
 - Distinct (10 mins)
     >https://app.codility.com/demo/results/training4ESK5A-ZST/  (100%)
     >
         TreeSet이 아닌 HashSet 사용 (순서 필요없이 단순 중복제거용이므로)
 
 ## 07 Stacks and Queues
+
 - Nesting (18 mins)
     >https://app.codility.com/demo/results/trainingK46G4V-4UR/  (62%)
     https://app.codility.com/demo/results/trainingXQR94S-EGZ/  (75%)
@@ -36,6 +38,7 @@ Problems not listed in the links can be found by downloading the source.<br />
          높이가 같으면 넘김 (=같은 벽돌)
 
 ## 08 Leader
+
 - EquiLeader (111 mins)
     >https://app.codility.com/demo/results/trainingQWKCEA-6YN/  (33%)
     https://app.codility.com/demo/results/training6NQGGH-AWZ/  (100%)
@@ -44,6 +47,7 @@ Problems not listed in the links can be found by downloading the source.<br />
         양 쪽의 equi Leader 카운트 시 조건문 변경하여 계산
 
 ## 09 Maximum slice problem
+
 - MaxProfit (36 mins)
    >https://app.codility.com/demo/results/trainingURR32N-GKE/  (44%)
    https://app.codility.com/demo/results/trainingTVPXWK-6UX/  (100%)
@@ -60,6 +64,7 @@ Problems not listed in the links can be found by downloading the source.<br />
         음수와 양수가 섞인 경우 음수를 기준으로 slice 한다는 가정에서 오류
 
 ## 10 Prime and Composite Numbers
+
 - CountFactors (11 mins)
     >https://app.codility.com/demo/results/training4477RF-9WB/  (71%, Performance 이슈)
     https://app.codility.com/demo/results/trainingEEZHBR-X6C/  (100%)
@@ -77,6 +82,7 @@ Problems not listed in the links can be found by downloading the source.<br />
 ## 11 -
 
 ## 12 Euclidean Algorithm
+
 - ChocolatesByNumbers (0 mins)
     >https://app.codility.com/demo/results/trainingKFZVE4-888/  (100%)
     >
@@ -88,6 +94,7 @@ Problems not listed in the links can be found by downloading the source.<br />
 ## 14 -
 
 ## 15 Caterpillar Method
+
 - AbsDistint (14 mins)
     >https://app.codility.com/demo/results/trainingTPFJJ4-EPV/  (100%)
 
@@ -107,6 +114,7 @@ Problems not listed in the links can be found by downloading the source.<br />
         나중에 좀 깊게 봐야겠음... 
         
 ## 16 Greedy Algorithms
+
 - TieRopes (16 mins)
     >https://app.codility.com/demo/results/trainingQKBWMK-MJB/  (12%)        
     https://app.codility.com/demo/results/trainingUW5WNX-4JT/  (100%)
@@ -122,10 +130,12 @@ Problems not listed in the links can be found by downloading the source.<br />
         int segCnt = 1; 왜 기본적으로 1을 깔고 가는지 이해가 안감.
         
 ## 92 Tasks from Indeed Prime 2016 College Coders challenge
+
 - TennisTournament (22 mins)
     >https://app.codility.com/demo/results/trainingXCT9MU-QBN/  (100%)
 
 ## 99 Future training 
+
 - SqlSum (1 mins)
     >https://app.codility.com/demo/results/trainingYN6B48-RF6/  (100%)
 
