@@ -16,6 +16,7 @@ Problems not listed in the links can be found by downloading the source.<br />
     >https://app.codility.com/demo/results/training4ESK5A-ZST/  (100%)
     >
         TreeSet이 아닌 HashSet 사용 (순서 필요없이 단순 중복제거용이므로)
+
 ## 07 Stacks and Queues
 - Nesting (18 mins)
     >https://app.codility.com/demo/results/trainingK46G4V-4UR/  (62%)
@@ -41,6 +42,7 @@ Problems not listed in the links can be found by downloading the source.<br />
     >
         논리 이슈, Performance 이슈
         양 쪽의 equi Leader 카운트 시 조건문 변경하여 계산
+
 ## 09 Maximum slice problem
 - MaxProfit (36 mins)
    >https://app.codility.com/demo/results/trainingURR32N-GKE/  (44%)
@@ -71,15 +73,20 @@ Problems not listed in the links can be found by downloading the source.<br />
     >https://app.codility.com/demo/results/trainingAD5M68-6TJ/  (100%)
     >
         공약수 구하는 문제
+
 ## 11 -
+
 ## 12 Euclidean Algorithm
 - ChocolatesByNumbers (0 mins)
     >https://app.codility.com/demo/results/trainingKFZVE4-888/  (100%)
     >
         처음부터 참고
         최대 공약수 구해서 N/최대 공약수
+
 ## 13 -
+
 ## 14 -
+
 ## 15 Caterpillar Method
 - AbsDistint (14 mins)
     >https://app.codility.com/demo/results/trainingTPFJJ4-EPV/  (100%)
