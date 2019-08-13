@@ -24,6 +24,16 @@ Problems not listed in the links can be found by downloading the source.<br />
     >
         S의 값이 비어있어도 참을 놓침
         stack의  값을 잘못 계산함
+
+- StoneWall
+    >https://app.codility.com/demo/results/trainingAXM8J7-UX7/  (100%)
+    >
+         처음부터 참고
+         스택 이용
+         높이가 이전 벽돌보다 작으면 비교 대상 제거
+         높이가 이전 벽돌보다 높으면 새로운 벽돌
+         높이가 같으면 넘김 (=같은 벽돌)
+
 ## 08 Leader
 - EquiLeader (111 mins)
     >https://app.codility.com/demo/results/trainingQWKCEA-6YN/  (33%)
