@@ -33,7 +33,7 @@ CyclicRotation***SecondModify*** : 검색하여 얻은 해결(나중에)<br />
             for (Map.Entry<Integer, Integer> entry : hMap.entrySet())
         첫 번째 방법도 100% 이지만 반복문을 두 번 돌리지 않고 한번에 하는 방법으로 개선
 
-- CyclicRotation
+- ★CyclicRotation
 
 ## 03 Time Complexity
 
@@ -42,34 +42,34 @@ CyclicRotation***SecondModify*** : 검색하여 얻은 해결(나중에)<br />
     >
         반복문이 아닌 수학적으로 접근
 
-- PermMissingElem
+- ★PermMissingElem
 
-- Tapeequilibrium
+- ★Tapeequilibrium
 
 ## 04 Counting Elements
 
-- PermCheck
+- ★PermCheck
 
 ## 05 Prefix Sums
 
-- PassingCars
+- ★PassingCars
 
 ## 06 Sorting
 
-- MaxProductOfThree 
+- ★MaxProductOfThree 
 
 - Distinct (10 mins)
     >https://app.codility.com/demo/results/training4ESK5A-ZST/  (100%)
     >
         TreeSet이 아닌 HashSet 사용 (순서 필요없이 단순 중복제거용이므로)
 
-- Triangle
+- ★Triangle
 
 ## 07 Stacks and Queues
 
-- Brackets
+- ★Brackets
 
-- Fish
+- ★Fish
 
 - Nesting (18 mins)
     >https://app.codility.com/demo/results/trainingK46G4V-4UR/  (62%)
@@ -90,7 +90,7 @@ CyclicRotation***SecondModify*** : 검색하여 얻은 해결(나중에)<br />
 
 ## 08 Leader
 
-- Dominator
+- ★Dominator
 
 - EquiLeader (111 mins)
     >https://app.codility.com/demo/results/trainingQWKCEA-6YN/  (33%)
@@ -186,7 +186,7 @@ CyclicRotation***SecondModify*** : 검색하여 얻은 해결(나중에)<br />
 
 ## Task from Indeed Prime 2015 challenge
 
-- LongestPassword
+- ★LongestPassword
         
 ## 92 Tasks from Indeed Prime 2016 College Coders challenge
 
