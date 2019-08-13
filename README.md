@@ -5,8 +5,22 @@
 Some problems have been already solved but are not listed below.<br />
 Problems not listed in the links can be found by downloading the source.<br />
 (I will solve again, and remove this text after adding links.)***
+<br /><br />
 
-## 01 Iterations
+#####Source Naming
+CyclicRotation : 내가 해결한 것<br />
+CyclicRotation***Modify*** : 검색하여 얻은 해결<br />
+CyclicRotation***Second*** : 2번째 내가 해결한 것(나중에)<br />
+CyclicRotation***SecondModify*** : 검색하여 얻은 해결(나중에)<br />
+
+## ~~01 Iterations~~
+
+- BinaryGap (38 mins)
+    >https://app.codility.com/demo/results/trainingMA8RDH-CMV/  (100%)
+    >
+        연속되는 0의 최대 갯수 구하는 문제
+        숫자를 이진수로 변경하는 법 : Integer.toBinaryString(N)
+
 ## 02 Arrays
 ## 03 Time Complexity
 ## 04 Counting Elements
