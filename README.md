@@ -122,6 +122,9 @@ Problems not listed in the links can be found by downloading the source.<br />
 - SqlSum (1 mins)
     >https://app.codility.com/demo/results/trainingYN6B48-RF6/  (100%)
 
-- StrSymmetryPoint
+- StrSymmetryPoint (17 mins)
+    >https://app.codility.com/demo/results/trainingSNKBXM-8GA/  (100%)
+    >
+        크게 어렵지 않은 문제
 
 - TreeHeight
