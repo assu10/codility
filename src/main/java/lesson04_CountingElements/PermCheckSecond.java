@@ -2,6 +2,12 @@ package lesson04_CountingElements;
 
 import java.util.Arrays;
 
+/**
+ * 6mins, 100%
+ * 
+ * @author 이주현
+ * @since 2019.08.13
+ */
 public class PermCheckSecond {
     public static void main(String[] args) {
         int[] A = {4,1,3};
