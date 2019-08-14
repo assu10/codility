@@ -74,7 +74,10 @@ CyclicRotation***SecondModify*** : 검색하여 얻은 해결(나중에)<br />
 
 ## 07 Stacks and Queues
 
-- (TO DO)Brackets
+- Brackets (24 mins)
+    >https://app.codility.com/demo/results/trainingM4JPSZ-SPF/  (100%)
+    >
+        괄호 정합성 체크하는 문제
 
 - (TO DO)Fish
 
