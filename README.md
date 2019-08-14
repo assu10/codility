@@ -62,7 +62,8 @@ CyclicRotation***SecondModify*** : 검색하여 얻은 해결(나중에)<br />
 
 ## 06 Sorting
 
-- (TO DO)MaxProductOfThree 
+- MaxProductOfThree (10 mins) 
+    >https://app.codility.com/demo/results/trainingVP52WH-PNQ/  (100%)
 
 - Distinct (10 mins)
     >https://app.codility.com/demo/results/training4ESK5A-ZST/  (100%)
