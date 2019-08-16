@@ -80,7 +80,13 @@ CyclicRotation***SecondModify*** : 검색하여 얻은 해결(나중에)<br />
     >
         TreeSet이 아닌 HashSet 사용 (순서 필요없이 단순 중복제거용이므로)
 
-- (TO DO)Triangle
+- Triangle (23 mins)
+    >https://app.codility.com/demo/results/trainingCEMEJ3-YKU/  (68%)
+    https://app.codility.com/demo/results/trainingBCB8VP-D72/  (100%)
+    >
+        로직 오류.
+        함수 사용 필요.
+        overflow 고려.
 
 ## 07 Stacks and Queues
 
