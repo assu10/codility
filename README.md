@@ -195,10 +195,17 @@ CyclicRotation***SecondModify*** : 검색하여 얻은 해결(나중에)<br />
         A={1,3} / B={5,6} 인 경우 겹치지 않는 세그먼트가 없으니 0을 리턴해야 하는데
         int segCnt = 1; 왜 기본적으로 1을 깔고 가는지 이해가 안감.
 
-## Task from Indeed Prime 2015 challenge
+## 90 Task from Indeed Prime 2015 challenge
 
-- (TO DO)LongestPassword
-        
+- LongestPassword (32 mins)
+    >https://app.codility.com/demo/results/trainingDCF3DA-ETS/  (30%)
+    >https://app.codility.com/demo/results/trainingYD5VX7-5UW/  (70%)
+    >https://app.codility.com/demo/results/trainingG8M2AF-5EW/  (100%)
+    >        
+        숫자 1개로만으로 구성 가능한 부분 놓침 (알파벳은 짝수이므로 0개여도 됨)
+        charAt 비교 시 숫자가 아닌 char로 비교할 것
+            s.charAt(i) >= '0'
+
 ## 92 Tasks from Indeed Prime 2016 College Coders challenge
 
 - TennisTournament (22 mins)
