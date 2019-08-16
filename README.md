@@ -74,7 +74,7 @@ CyclicRotation***SecondModify*** : 검색하여 얻은 해결(나중에)<br />
 
 ## 07 Stacks and Queues
 
-- Brackets (24 mins)
+-  Brackets (24 mins)
     >https://app.codility.com/demo/results/trainingM4JPSZ-SPF/  (100%)
     >
         괄호 정합성 체크하는 문제
@@ -100,7 +100,8 @@ CyclicRotation***SecondModify*** : 검색하여 얻은 해결(나중에)<br />
 
 ## 08 Leader
 
-- (TO DO)Dominator
+- Dominator (11 mins)
+    >https://app.codility.com/demo/results/trainingVMMDJV-7B7/  (100%)
 
 - EquiLeader (111 mins)
     >https://app.codility.com/demo/results/trainingQWKCEA-6YN/  (33%)
