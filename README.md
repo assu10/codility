@@ -41,12 +41,18 @@ CyclicRotation***SecondModify*** : 검색하여 얻은 해결(나중에)<br />
 
 ## 03 Time Complexity
 
-- FrogJmp (5 mins)
+- ~~FrogJmp (5 mins)~~
     >https://app.codility.com/demo/results/training9QJ7BS-KMD/  (100%)
     >
         반복문이 아닌 수학적으로 접근
 
-- (TO DO)PermMissingElem
+- PermMissingElem (6 mins)
+    >https://app.codility.com/demo/results/trainingXNAFCU-FB3/  (50%)
+    https://app.codility.com/demo/results/trainingWPG5X9-65J/  (50%)
+    https://app.codility.com/demo/results/trainingPP76RN-RF3/  (100%)
+    >
+        빈 배열일 경우 0이 아닌 1 리턴해야 함.
+        1~N+1 의 범위이므로 {1}인 경우 2 리턴.
 
 - (TO DO)TapeEquilibrium
 
@@ -57,7 +63,7 @@ CyclicRotation***SecondModify*** : 검색하여 얻은 해결(나중에)<br />
 
 ## 05 Prefix Sums
 
-- PassingCars (18 mins)
+- ~~PassingCars (18 mins)~~
     >https://app.codility.com/demo/results/trainingA3SQ4D-THQ/  (50%)
     https://app.codility.com/demo/results/trainingXTY4B8-RD6/  (100%)
     >
@@ -66,10 +72,10 @@ CyclicRotation***SecondModify*** : 검색하여 얻은 해결(나중에)<br />
 
 ## 06 Sorting
 
-- MaxProductOfThree (10 mins) 
+- ~~MaxProductOfThree (10 mins)~~ 
     >https://app.codility.com/demo/results/trainingVP52WH-PNQ/  (100%)
 
-- Distinct (10 mins)
+- ~~Distinct (10 mins)~~
     >https://app.codility.com/demo/results/training4ESK5A-ZST/  (100%)
     >
         TreeSet이 아닌 HashSet 사용 (순서 필요없이 단순 중복제거용이므로)
@@ -78,7 +84,7 @@ CyclicRotation***SecondModify*** : 검색하여 얻은 해결(나중에)<br />
 
 ## 07 Stacks and Queues
 
--  Brackets (24 mins)
+- ~~Brackets (24 mins)~~
     >https://app.codility.com/demo/results/trainingM4JPSZ-SPF/  (100%)
     >
         괄호 정합성 체크하는 문제
@@ -104,7 +110,7 @@ CyclicRotation***SecondModify*** : 검색하여 얻은 해결(나중에)<br />
 
 ## 08 Leader
 
-- Dominator (11 mins)
+- ~~Dominator (11 mins)~~
     >https://app.codility.com/demo/results/trainingVMMDJV-7B7/  (100%)
 
 - EquiLeader (111 mins)
@@ -143,7 +149,7 @@ CyclicRotation***SecondModify*** : 검색하여 얻은 해결(나중에)<br />
         O(sqrt(N))으로 풀어야 함
             (int) Math.sqrt(N)
 
-- MinPerimeterRectangle (14 mins)
+- ~~MinPerimeterRectangle (14 mins)~~
     >https://app.codility.com/demo/results/trainingAD5M68-6TJ/  (100%)
     >
         공약수 구하는 문제
@@ -179,7 +185,7 @@ CyclicRotation***SecondModify*** : 검색하여 얻은 해결(나중에)<br />
         처음부터 참고
         아직도 triangeCnt += r - q - 1; 이 부분은 잘 이해가 안감
 
-- AbsDistint (14 mins)
+- ~~AbsDistint (14 mins)~~
     >https://app.codility.com/demo/results/trainingTPFJJ4-EPV/  (100%)
 
         
@@ -215,18 +221,16 @@ CyclicRotation***SecondModify*** : 검색하여 얻은 해결(나중에)<br />
 
 ## 92 Tasks from Indeed Prime 2016 College Coders challenge
 
-- TennisTournament (22 mins)
+- ~~TennisTournament (22 mins)~~
     >https://app.codility.com/demo/results/trainingXCT9MU-QBN/  (100%)
 
 ## 99 Future training 
 
-- SqlSum (1 mins)
+- ~~SqlSum (1 mins)~~
     >https://app.codility.com/demo/results/trainingYN6B48-RF6/  (100%)
 
-- StrSymmetryPoint (17 mins)
+- ~~StrSymmetryPoint (17 mins)~~
     >https://app.codility.com/demo/results/trainingSNKBXM-8GA/  (100%)
-    >
-        크게 어렵지 않은 문제
 
 - TreeHeight
     >https://app.codility.com/demo/results/trainingPSBAES-Q5Z/  (100%)
