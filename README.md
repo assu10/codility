@@ -33,7 +33,11 @@ CyclicRotation***SecondModify*** : 검색하여 얻은 해결(나중에)<br />
             for (Map.Entry<Integer, Integer> entry : hMap.entrySet())
         첫 번째 방법도 100% 이지만 반복문을 두 번 돌리지 않고 한번에 하는 방법으로 개선
 
-- (TO DO)CyclicRotation
+- CyclicRotation
+    >https://app.codility.com/demo/results/trainingETGJVN-X3S/  (100%)
+    >
+        처음부터 참고.
+        수학적 접근 필요
 
 ## 03 Time Complexity
 
@@ -203,6 +207,7 @@ CyclicRotation***SecondModify*** : 검색하여 얻은 해결(나중에)<br />
     >https://app.codility.com/demo/results/trainingG8M2AF-5EW/  (100%)
     >https://app.codility.com/demo/results/trainingKTT9UZ-MFE/  (100%)
     >        
+        정규식 사용
         숫자 1개로만으로 구성 가능한 부분 놓침 (알파벳은 짝수이므로 0개여도 됨)
         charAt 비교 시 숫자가 아닌 char로 비교할 것
             s.charAt(i) >= '0'
