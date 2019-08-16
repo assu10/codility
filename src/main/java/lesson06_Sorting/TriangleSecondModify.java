@@ -17,7 +17,6 @@ public class TriangleSecondModify {
         Arrays.sort(A);
         for (int i=2; i<A.length; i++) {
             if (isTriange(A[i-2], A[i-1], A[i])) {
-                System.out.println(A[i-2]+"__"+A[i-1]+"__"+ A[i]);
                 return 1;
             }
         }
