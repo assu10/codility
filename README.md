@@ -201,10 +201,12 @@ CyclicRotation***SecondModify*** : 검색하여 얻은 해결(나중에)<br />
     >https://app.codility.com/demo/results/trainingDCF3DA-ETS/  (30%)
     >https://app.codility.com/demo/results/trainingYD5VX7-5UW/  (70%)
     >https://app.codility.com/demo/results/trainingG8M2AF-5EW/  (100%)
+    >https://app.codility.com/demo/results/trainingKTT9UZ-MFE/  (100%)
     >        
         숫자 1개로만으로 구성 가능한 부분 놓침 (알파벳은 짝수이므로 0개여도 됨)
         charAt 비교 시 숫자가 아닌 char로 비교할 것
             s.charAt(i) >= '0'
+        이중 반복문 개선
 
 ## 92 Tasks from Indeed Prime 2016 College Coders challenge
 
