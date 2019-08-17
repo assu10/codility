@@ -15,7 +15,7 @@ CyclicRotation***SecondModify*** : 검색하여 얻은 해결(나중에)<br />
 
 ## 01 Iterations
 
-- BinaryGap (38 mins)
+- BinaryGap (38 mins) - 연속된 0의 갯수
     >https://app.codility.com/demo/results/trainingMA8RDH-CMV/  (100%)
     >
         연속되는 0의 최대 갯수 구하는 문제
@@ -24,7 +24,7 @@ CyclicRotation***SecondModify*** : 검색하여 얻은 해결(나중에)<br />
 
 ## 02 Arrays
 
-- OddOccurrencesInArray (18 mins)
+- OddOccurrencesInArray (18 mins) - 홀수 개인 숫자
     > https://app.codility.com/demo/results/trainingSSES8M-URY/  (100%)  
     https://app.codility.com/demo/results/trainingFGTW3B-SWJ/  (100%)
     >
@@ -33,7 +33,7 @@ CyclicRotation***SecondModify*** : 검색하여 얻은 해결(나중에)<br />
             for (Map.Entry<Integer, Integer> entry : hMap.entrySet())
         첫 번째 방법도 100% 이지만 반복문을 두 번 돌리지 않고 한번에 하는 방법으로 개선
 
-- CyclicRotation
+- CyclicRotation - 배열 이동
     >https://app.codility.com/demo/results/trainingETGJVN-X3S/  (100%)
     >
         처음부터 참고.
@@ -46,7 +46,7 @@ CyclicRotation***SecondModify*** : 검색하여 얻은 해결(나중에)<br />
     >
         반복문이 아닌 수학적으로 접근
 
-- PermMissingElem (6 mins)
+- PermMissingElem (6 mins) - 배열 중간에 빠진 숫자 리턴
     >https://app.codility.com/demo/results/trainingXNAFCU-FB3/  (50%)
     https://app.codility.com/demo/results/trainingWPG5X9-65J/  (50%)
     https://app.codility.com/demo/results/trainingPP76RN-RF3/  (100%)
@@ -72,10 +72,10 @@ CyclicRotation***SecondModify*** : 검색하여 얻은 해결(나중에)<br />
 
 ## 06 Sorting
 
-- ~~MaxProductOfThree (10 mins)~~ 
+- ~~MaxProductOfThree (10 mins)~~ - 배열 중 곱했을 때 가장 큰 수
     >https://app.codility.com/demo/results/trainingVP52WH-PNQ/  (100%)
 
-- ~~Distinct (10 mins)~~
+- ~~Distinct (10 mins)~~ - 배열의 고유값 갯수 세기
     >https://app.codility.com/demo/results/training4ESK5A-ZST/  (100%)
     >
         TreeSet이 아닌 HashSet 사용 (순서 필요없이 단순 중복제거용이므로)
@@ -90,10 +90,8 @@ CyclicRotation***SecondModify*** : 검색하여 얻은 해결(나중에)<br />
 
 ## 07 Stacks and Queues
 
-- ~~Brackets (24 mins)~~
+- ~~Brackets (24 mins)~~ - 괄호 정합성 체크
     >https://app.codility.com/demo/results/trainingM4JPSZ-SPF/  (100%)
-    >
-        괄호 정합성 체크하는 문제
 
 - (TO DO)Fish
 
@@ -116,7 +114,7 @@ CyclicRotation***SecondModify*** : 검색하여 얻은 해결(나중에)<br />
 
 ## 08 Leader
 
-- ~~Dominator (11 mins)~~
+- ~~Dominator (11 mins)~~ - 배열 중 절반이 넘는 값의 인덱스 리턴
     >https://app.codility.com/demo/results/trainingVMMDJV-7B7/  (100%)
 
 - EquiLeader (111 mins)
@@ -146,7 +144,7 @@ CyclicRotation***SecondModify*** : 검색하여 얻은 해결(나중에)<br />
 
 ## 10 Prime and Composite Numbers
 
-- CountFactors (11 mins)
+- CountFactors (11 mins) - 인수구하기, sqrt
     >https://app.codility.com/demo/results/training4477RF-9WB/  (71%, Performance 이슈)
     https://app.codility.com/demo/results/trainingEEZHBR-X6C/  (100%)
     >
@@ -155,7 +153,7 @@ CyclicRotation***SecondModify*** : 검색하여 얻은 해결(나중에)<br />
         O(sqrt(N))으로 풀어야 함
             (int) Math.sqrt(N)
 
-- ~~MinPerimeterRectangle (14 mins)~~
+- ~~MinPerimeterRectangle (14 mins)~~ - 공약수
     >https://app.codility.com/demo/results/trainingAD5M68-6TJ/  (100%)
     >
         공약수 구하는 문제
@@ -164,7 +162,7 @@ CyclicRotation***SecondModify*** : 검색하여 얻은 해결(나중에)<br />
 
 ## 12 Euclidean Algorithm
 
-- ChocolatesByNumbers (0 mins)
+- ChocolatesByNumbers (0 mins) - 최대 공약수
     >https://app.codility.com/demo/results/trainingKFZVE4-888/  (100%)
     >
         처음부터 참고
@@ -176,7 +174,7 @@ CyclicRotation***SecondModify*** : 검색하여 얻은 해결(나중에)<br />
 
 ## 15 Caterpillar Method
 
-- CountDistinctSlices (52 mins)
+- CountDistinctSlices (52 mins) - 고유값 갯수
     >https://app.codility.com/demo/results/trainingWG6ACZ-2YT/  (70%)
     https://app.codility.com/demo/results/trainingMA2M84-YWX/  (100%)
     >
@@ -213,7 +211,7 @@ CyclicRotation***SecondModify*** : 검색하여 얻은 해결(나중에)<br />
 
 ## 90 Task from Indeed Prime 2015 challenge
 
-- LongestPassword (32 mins)
+- LongestPassword (32 mins) - 정규식
     >https://app.codility.com/demo/results/trainingDCF3DA-ETS/  (30%)
     >https://app.codility.com/demo/results/trainingYD5VX7-5UW/  (70%)
     >https://app.codility.com/demo/results/trainingG8M2AF-5EW/  (100%)
@@ -238,7 +236,7 @@ CyclicRotation***SecondModify*** : 검색하여 얻은 해결(나중에)<br />
 - ~~StrSymmetryPoint (17 mins)~~
     >https://app.codility.com/demo/results/trainingSNKBXM-8GA/  (100%)
 
-- TreeHeight
+- TreeHeight - 이진트리 길이
     >https://app.codility.com/demo/results/trainingPSBAES-Q5Z/  (100%)
     >
         처음부터 참고
