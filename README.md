@@ -162,7 +162,7 @@ CyclicRotation***SecondModify*** : 검색하여 얻은 해결(나중에)<br />
 
 ## 12 Euclidean Algorithm
 
-- ChocolatesByNumbers (0 mins) - 최대 공약수
+- ChocolatesByNumbers - 최대 공약수
     >https://app.codility.com/demo/results/trainingKFZVE4-888/  (100%)
     >
         처음부터 참고
