@@ -55,6 +55,10 @@ CyclicRotation***SecondModify*** : 검색하여 얻은 해결(나중에)<br />
         {-1000,1000} 인 경우 -2000 리턴
         전체 합을 스트림(IntStream.of(A).sum())이 아닌 반복문으로 개선하여 성능 향상
 
+- (TO DO) MaxCounters
+- (TO DO) MissingInteger
+
+
 ## 04 Counting Elements
 
 - PermCheck (6 mins)
@@ -68,6 +72,8 @@ CyclicRotation***SecondModify*** : 검색하여 얻은 해결(나중에)<br />
     >
         로직은 맞으나 퍼포먼스 이슈
         O(N ** 2) -> O(N) 로 개선
+
+- (TO DO) MinAvgTwoSlice
 
 ## 06 Sorting
 
@@ -86,6 +92,8 @@ CyclicRotation***SecondModify*** : 검색하여 얻은 해결(나중에)<br />
         로직 오류.
         함수 사용 필요.
         overflow 고려.
+
+- (TO DO) NumberOfDiscIntersections
 
 ## 07 Stacks and Queues
 
@@ -146,6 +154,8 @@ CyclicRotation***SecondModify*** : 검색하여 얻은 해결(나중에)<br />
     >
         {3,-2, 3}인 경우 실패 (3이 아닌 4가 나와야 함, 3-2+3=4)
         음수와 양수가 섞인 경우 음수를 기준으로 slice 한다는 가정에서 오류
+
+- (TO DO) MaxDoubleSliceSum
 
 ## 10 Prime and Composite Numbers
 
