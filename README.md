@@ -55,8 +55,16 @@ CyclicRotation***SecondModify*** : 검색하여 얻은 해결(나중에)<br />
         {-1000,1000} 인 경우 -2000 리턴
         전체 합을 스트림(IntStream.of(A).sum())이 아닌 반복문으로 개선하여 성능 향상
 
-- (TO DO) MaxCounters
-- (TO DO) MissingInteger
+- ~~MaxCounters - Respectable (79 mins)~~
+    >https://app.codility.com/demo/results/trainingMAVYQB-6TT/  (100%)
+    >
+        N보다 큰 배열 요소 추출 ([2,4,4,6,1,2,6,2] -> [2,4,4],[1,2],[2] 에서 [2,4,4],[1,2])
+        배열 요소의 갯수-1 (마지막은 increase 적용해야 하므로) 개의 배열에서 각각 제일 많이 반복되는 숫자의 갯수 더해줌
+        더해준 수를 기본 갯수로 셋팅 (0이 아닌)
+        이 후 마지막 배열에서 increase 수행
+
+
+- (TO DO) MissingInteger - Respectable
 
 
 ## 04 Counting Elements
@@ -73,7 +81,7 @@ CyclicRotation***SecondModify*** : 검색하여 얻은 해결(나중에)<br />
         로직은 맞으나 퍼포먼스 이슈
         O(N ** 2) -> O(N) 로 개선
 
-- (TO DO) MinAvgTwoSlice
+- (TO DO) MinAvgTwoSlice - Respectable
 
 ## 06 Sorting
 
@@ -93,7 +101,7 @@ CyclicRotation***SecondModify*** : 검색하여 얻은 해결(나중에)<br />
         함수 사용 필요.
         overflow 고려.
 
-- (TO DO) NumberOfDiscIntersections
+- (TO DO) NumberOfDiscIntersections - Respectable
 
 ## 07 Stacks and Queues
 
@@ -155,7 +163,7 @@ CyclicRotation***SecondModify*** : 검색하여 얻은 해결(나중에)<br />
         {3,-2, 3}인 경우 실패 (3이 아닌 4가 나와야 함, 3-2+3=4)
         음수와 양수가 섞인 경우 음수를 기준으로 slice 한다는 가정에서 오류
 
-- (TO DO) MaxDoubleSliceSum
+- (TO DO) MaxDoubleSliceSum - Respectable
 
 ## 10 Prime and Composite Numbers
 
