@@ -93,7 +93,13 @@ CyclicRotation***SecondModify*** : 검색하여 얻은 해결(나중에)<br />
 - ~~Brackets (24 mins)~~ - 괄호 정합성 체크
     >https://app.codility.com/demo/results/trainingM4JPSZ-SPF/  (100%)
 
-- (TO DO)Fish
+- Fish (43 mins) - 살아남은 물고기 갯수
+    >https://app.codility.com/demo/results/training9EPCFM-W5K/  (37%)
+    https://app.codility.com/demo/results/trainingUK2PJR-D82/  (100%)
+    >
+        처음부터 해결방향 참고함.
+        한 쪽의 케이스를 스택에 담아놓고 비교.
+        스택에 남아있는 요소 갯수가 아닌 별도 변수
 
 - Nesting (18 mins)
     >https://app.codility.com/demo/results/trainingK46G4V-4UR/  (62%)

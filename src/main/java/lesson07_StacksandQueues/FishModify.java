@@ -39,7 +39,7 @@ public class FishModify {
 					}
 				}
 			} else {        // down fish
-				downFishes.add(i);
+				downFishes.push(i);
 				aliveCnt++;
 			}
 			
