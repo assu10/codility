@@ -1,11 +1,4 @@
 # codility
-***해결했지만 아래 링크에 없는 문제도 있습니다.
-소스는 있으니 다운받아 보시면 됩니다. <br />
-(복습 겸 다시 풀어 링크 추가 예정, 추가 후 해당 문구 삭제 예정)<br /><br />
-Some problems have been already solved but are not listed below.<br />
-Problems not listed in the links can be found by downloading the source.<br />
-(I will solve again, and remove this text after adding links.)***
-<br /><br />
 
 ### Source Naming
 CyclicRotation : 내가 해결한 것<br />
@@ -54,7 +47,13 @@ CyclicRotation***SecondModify*** : 검색하여 얻은 해결(나중에)<br />
         빈 배열일 경우 0이 아닌 1 리턴해야 함.
         1~N+1 의 범위이므로 {1}인 경우 2 리턴.
 
-- (TO DO)TapeEquilibrium
+- TapeEquilibrium (18 mins)
+    >https://app.codility.com/demo/results/trainingVBBRMM-RSS/  (84%)
+    https://app.codility.com/demo/results/trainingQDMG46-EYH/  (92%, Performance 이슈)
+    https://app.codility.com/demo/results/trainingVJ7Y5S-GUS/  (100%)
+    >
+        {-1000,1000} 인 경우 -2000 리턴
+        전체 합을 스트림(IntStream.of(A).sum())이 아닌 반복문으로 개선하여 성능 향상
 
 ## 04 Counting Elements
 
